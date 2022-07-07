@@ -1,4 +1,4 @@
 # futurereadypro
 static web app link
 
-https://ambitious-stone-0fd8dc710.1.azurestaticapps.net/
+https://icy-tree-0df6df610.1.azurestaticapps.net/
